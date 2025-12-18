@@ -31,7 +31,6 @@ bootcamp/
 │   ├── report.json
 │   └── report.md
 │
-│
 ├── src/
 │   └── csv_profiler/
 │       ├── __init__.py
@@ -49,9 +48,7 @@ bootcamp/
 ├── uv.lock                     # Dependency lock file
 └── .python-version
 
-
-
-
+---
 
 
 ## 📝 Notes
@@ -62,6 +59,7 @@ This project was built as part of an **AI bootcamp assignment** to practice:
 - Writing modular Python functions
 - Building interactive UIs with Streamlit
 - Using Git and GitHub for version control
+
 
 
 
