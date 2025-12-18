@@ -17,6 +17,18 @@ summary statistics with export options in **JSON** and **Markdown** formats.
 - Export the report as:
   - `report.json`
   - `report.md`
+ 
+---
+
+
+## 📝 Notes
+
+This project was built as part of an **AI bootcamp assignment** to practice:
+
+- Data profiling
+- Writing modular Python functions
+- Building interactive UIs with Streamlit
+- Using Git and GitHub for version control
 
 ---
 
@@ -48,17 +60,8 @@ bootcamp/
 ├── uv.lock                     # Dependency lock file
 └── .python-version
 
----
 
 
-## 📝 Notes
-
-This project was built as part of an **AI bootcamp assignment** to practice:
-
-- Data profiling
-- Writing modular Python functions
-- Building interactive UIs with Streamlit
-- Using Git and GitHub for version control
 
 
 
