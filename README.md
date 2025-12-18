@@ -54,15 +54,14 @@ bootcamp/
 
 
 
-
-
 ## 📝 Notes
 
-This project was built as part of AI bootcamp assignment to practice:
+This project was built as part of an **AI bootcamp assignment** to practice:
 
 - Data profiling
 - Writing modular Python functions
 - Building interactive UIs with Streamlit
 - Using Git and GitHub for version control
+
 
 
