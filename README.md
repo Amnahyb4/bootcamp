@@ -31,9 +31,6 @@ bootcamp/
 │   ├── report.json
 │   └── report.md
 │
-├── outputs/                    # Generated reports (current)
-│   ├── report.json
-│   └── report.md
 │
 ├── src/
 │   └── csv_profiler/
@@ -62,3 +59,4 @@ This project was built as part of AI bootcamp assignment to practice:
 - Writing modular Python functions
 - Building interactive UIs with Streamlit
 - Using Git and GitHub for version control
+
